@@ -1,0 +1,15 @@
+header {
+  max-width: 120rem;
+  height: 1000px;
+  background-image: url("../images folder/Clip.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,51 @@
+.component-2 {
+  width: 100%;
+  padding-top: 28px;
+  padding-bottom: 27px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.component-2-container {
+  width: 61%;
+  margin: 0 auto;
+}
+
+.component-2 h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  color: white;
+}
+
+.component-2 a {
+  font-family: "Muli", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #ffffff;
+  display: inline-block;
+}
+
+.component-2 a:hover {
+  color: #ee3364;
+  cursor: pointer;
+}
+
+.a-container {
+  width: 35.45rem;
+  margin-right: 8.45rem;
+  line-height: 1.3px;
+  margin-bottom: 2px;
+}
+
+.svg-container svg {
+  padding-top: 3px;
+}
+
+.svg-container svg:not(:last-child) {
+  margin-right: 12px;
+}
+
+.svg-container svg:last-child {
+  float: right;
+}

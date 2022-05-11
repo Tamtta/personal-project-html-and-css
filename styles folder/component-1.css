@@ -1,0 +1,57 @@
+.component-1 {
+  width: 100%;
+  padding-top: 16px;
+  padding-bottom: 14px;
+  background-color: rgba(0, 0, 0, 0.57);
+}
+
+.component-1-container {
+  width: 61.3%;
+  margin: 0 auto;
+}
+
+.component-1 p,
+.contact-email,
+.contact-phone {
+  display: inline-block;
+}
+
+.contact-email {
+  margin-right: 75px;
+}
+
+.contact-email svg {
+  margin-right: 20px;
+}
+
+.contact-phone svg {
+  margin-right: 12px;
+}
+
+.component-1 a {
+  font-family: "Muli", sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-decoration: none;
+  color: #ffffff;
+  opacity: 0.4;
+}
+
+.contact-icons {
+  width: 120px;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+}
+
+.component-1 a:hover {
+  cursor: pointer;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.component-1 path:hover {
+  cursor: pointer;
+  fill: #ffffff;
+  opacity: 1;
+}
