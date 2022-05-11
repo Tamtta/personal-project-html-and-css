@@ -1,0 +1,49 @@
+.component-3 {
+  margin-left: 366px;
+  width: 86.25rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.component-3-container h1 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 80px;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: 1.7px;
+  word-spacing: 2px;
+  line-height: 86px;
+  width: 670px;
+  position: absolute;
+  z-index: 1;
+  padding-top: 150px;
+}
+
+.component-3-container p {
+  font-family: "Muli", sans-serif;
+  font-size: 20px;
+  width: 560px;
+  font-weight: 100;
+  padding-top: 436px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.component-3-container img {
+  display: inline-block;
+  margin-top: 45px;
+}
+
+.component-3-container button {
+  width: 180px;
+  height: 58px;
+  margin-top: 57px;
+  background-color: #ee3364;
+  color: white;
+  font-family: "Muli", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  border: 1px solid #ee3364;
+  padding-bottom: 9px;
+}

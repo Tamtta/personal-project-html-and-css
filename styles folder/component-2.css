@@ -3,6 +3,7 @@
   padding-top: 28px;
   padding-bottom: 27px;
   background-color: rgba(0, 0, 0, 0.4);
+  margin-bottom: 85px;
 }
 
 .component-2-container {
@@ -32,8 +33,8 @@
 }
 
 .a-container {
-  width: 35.45rem;
-  margin-right: 8.45rem;
+  width: 35.455rem;
+  margin-right: 8.4rem;
   line-height: 1.3px;
   margin-bottom: 2px;
 }
