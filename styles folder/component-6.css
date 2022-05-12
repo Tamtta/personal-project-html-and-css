@@ -1,0 +1,32 @@
+.component-6 {
+  width: 100%;
+  height: 492px;
+  margin: 0 auto;
+  background-color: #ff434b;
+  padding-top: 150px;
+}
+
+.component-6 p {
+  font-family: "Muli", sans-serif;
+  font-size: 16px;
+  width: 240px;
+  height: 20px;
+  margin: 15px auto 15px auto;
+  padding-left: 20px;
+  color: #ffffff;
+}
+
+.component-6 h1 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  width: 800px;
+  margin: 0 auto;
+  padding-left: 15px;
+  color: #ffffff;
+}
+
+.inner-span {
+  width: 22px;
+  display: inline-block;
+}
