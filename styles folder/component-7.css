@@ -1,0 +1,56 @@
+.component-7 {
+  width: 100%;
+  height: 285px;
+  background-color: #1b1b1b;
+  padding-bottom: 25px;
+}
+
+.component-7-inner {
+  width: 62%;
+  margin: 0 auto;
+  justify-content: unset;
+}
+
+.first-child {
+  margin-right: 110px;
+}
+
+.second-child {
+  margin-right: 85px;
+}
+
+.component-7-inner .flex {
+  justify-content: space-between;
+  width: 310px;
+}
+
+.for-pseudo-before {
+  width: 113px;
+  height: 113px;
+  background-color: #2d2c2c;
+  border: 1px solid #2d2c2c;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.component-7 h1 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 57px;
+  font-weight: 700;
+  color: #ffffff;
+  display: inline-block;
+}
+
+.component-7 p {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 24px;
+  color: #cfcfcf;
+  display: inline-block;
+}
+
+.component-7 span {
+  display: inline-block;
+  width: 165px;
+}

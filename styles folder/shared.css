@@ -24,3 +24,9 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
+
+.flex-baseline {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
