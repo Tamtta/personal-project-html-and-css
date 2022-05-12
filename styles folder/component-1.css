@@ -1,7 +1,7 @@
 .component-1 {
   width: 100%;
-  padding-top: 16px;
-  padding-bottom: 14px;
+  padding-top: 1rem;
+  padding-bottom: 0.875rem;
   background-color: rgba(0, 0, 0, 0.57);
 }
 
@@ -17,20 +17,20 @@
 }
 
 .contact-email {
-  margin-right: 75px;
+  margin-right: 4.6875rem;
 }
 
 .contact-email svg {
-  margin-right: 20px;
+  margin-right: 1.25rem;
 }
 
 .contact-phone svg {
-  margin-right: 12px;
+  margin-right: 0.75rem;
 }
 
 .component-1 a {
   font-family: "Muli", sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: lighter;
   text-decoration: none;
   color: #ffffff;
@@ -38,7 +38,7 @@
 }
 
 .contact-icons {
-  width: 120px;
+  width: 7.5rem;
   float: right;
   display: flex;
   justify-content: space-between;
