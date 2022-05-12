@@ -1,0 +1,77 @@
+.component-4 h1 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  width: 700px;
+  height: 103px;
+  text-align: center;
+  margin: 0 auto;
+  letter-spacing: 0.8px;
+  line-height: 45px;
+  padding-left: 46px;
+}
+
+.component-4 h1 > span {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.ads-container {
+  margin: 44px auto;
+  width: 1170px;
+}
+
+.ads-container div:not(.svg-bg) {
+  width: 362px;
+  height: 292px;
+  background-color: #edf7ff;
+  border: 1px solid #edf7ff;
+}
+
+.ads-container img {
+  height: 41px;
+  width: 41px;
+  /* display: block; */
+}
+
+.svg-bg {
+  width: 81px;
+  height: 81px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 43px;
+  margin-left: 46px;
+  margin-bottom: 13px;
+}
+
+.ads-container h3 {
+  width: 260px;
+  height: 33px;
+  margin-left: 47px;
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 22px;
+}
+
+.ads-container p {
+  width: 300px;
+  margin-left: 47px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+
+.ads-container div:not(.svg-bg):hover {
+  border: 1px solid #ee3364;
+  transform: translateY(-1.2rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+}
+
+.svg-bg:hover {
+  background-color: #ee3364;
+}
