@@ -72,6 +72,6 @@
   box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
 }
 
-.svg-bg:hover {
+.ads-container div:not(.svg-bg):hover .svg-bg {
   background-color: #ee3364;
 }
