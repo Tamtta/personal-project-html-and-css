@@ -1,0 +1,119 @@
+.component-5 {
+  width: 100%;
+  height: 468px;
+  background-color: #edf7ff;
+  padding-top: 100px;
+}
+
+.component-5-inner-div {
+  width: 1174px;
+  height: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.inner-div-1 {
+  width: 550px;
+}
+
+.inner-div-1 h1 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: 1.1px;
+  padding-left: 10px;
+  line-height: 46px;
+  margin-bottom: 33px;
+}
+
+.inner-div-1 p {
+  padding-left: 10px;
+  font-family: "Muli regular", sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  margin-bottom: 24px;
+}
+
+.cube-div {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.inner-div-1 .flex {
+  width: 295px;
+}
+
+.div-for-h4-and-p {
+  padding-top: 18px;
+  width: 145px;
+}
+
+.div-for-h4-and-p h4 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 19px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.div-for-h4-and-p p {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.container-grid {
+  width: 556px;
+}
+
+.container-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 556px;
+  height: 44px;
+  margin-bottom: 5px;
+}
+
+.container-flex span {
+  display: inline-block;
+  width: 34px;
+}
+
+.container-flex p {
+  width: 179px;
+}
+
+.container-flex span,
+.container-flex p {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.for-pseudo-classes div {
+  position: relative;
+  margin-bottom: 22px;
+  margin-left: 15px;
+}
+
+.for-pseudo-classes div::before {
+  content: " ";
+  width: 410px;
+  height: 10px;
+  position: absolute;
+  background-color: #ee3364;
+  bottom: 0;
+  left: 0;
+}
+
+.for-pseudo-classes div::after {
+  content: " ";
+  width: 146px;
+  height: 10px;
+  position: absolute;
+  background-color: #e9e9e9;
+  bottom: 0;
+  right: 0;
+}

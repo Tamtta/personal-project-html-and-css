@@ -1,3 +1,7 @@
+.component-4 {
+  margin-bottom: 140px;
+}
+
 .component-4 h1 {
   font-family: "Glacial Indifference", sans-serif;
   font-size: 2.5rem;
@@ -27,6 +31,7 @@
   height: 292px;
   background-color: #edf7ff;
   border: 1px solid #edf7ff;
+  margin-bottom: 40px;
 }
 
 .ads-container img {
@@ -78,4 +83,23 @@
 
 #_021-diamond {
   filter: brightness(0);
+}
+
+.component-4-button {
+  display: block;
+  width: 203px;
+  height: 65px;
+  background-color: #ee3364;
+  color: white;
+  border: 1px solid #ee3364;
+  margin: 0 auto;
+  font-family: "Muli", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.component-4-button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #ee3364;
 }
