@@ -1,0 +1,91 @@
+.component-8 {
+  width: 100%;
+  height: 595px;
+  background-color: aqua;
+  margin-bottom: 140px;
+}
+
+.component-8-inner {
+  width: 63%;
+  margin: 0 auto;
+  position: relative;
+  align-items: unset;
+}
+
+.rectangle {
+  width: 426px;
+  height: 547px;
+  background-color: #ffa723;
+}
+
+.rectangle-absolute {
+  position: absolute;
+  top: 48.5px;
+  left: 77px;
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+}
+
+#div-for-elements {
+  width: 590px;
+  padding-top: 44px;
+}
+
+#div-for-elements h1 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  color: #1c1c1c;
+  margin-bottom: 36px;
+}
+
+#div-for-elements p {
+  font-family: "Muli", sans-serif;
+  font-size: 16px;
+  color: #8b8b8b;
+  line-height: 24px;
+  margin-bottom: 19px;
+}
+
+#div-for-elements li > img {
+  display: inline-block;
+  margin-right: 18px;
+}
+
+#div-for-elements li {
+  display: block;
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+#div-for-elements li:nth-child(2) {
+  margin-bottom: 22px;
+}
+
+#div-for-elements li:nth-child(3) {
+  margin-bottom: 25px;
+}
+
+#div-for-elements li:last-child {
+  margin-bottom: 60px;
+}
+
+.component-8 button {
+  width: 180px;
+  height: 51px;
+  background-color: #ee3364;
+  color: white;
+  font-family: "Muli", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  border: 1px solid #ee3364;
+  padding-bottom: 7px;
+}
+
+.component-8 button:hover {
+  color: #ee3364;
+  cursor: pointer;
+  background-color: #ffffff;
+}
