@@ -1,0 +1,187 @@
+/* Cambay */
+
+@font-face {
+  font-family: Cambay-Bold;
+  src: url("../fonts/fonts/Cambay/Cambay-Bold.ttf");
+}
+
+@font-face {
+  font-family: Cambay-BoldItalic;
+  src: url("../fonts/fonts/Cambay/Cambay-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Cambay-Italic;
+  src: url("../fonts/fonts/Cambay/Cambay-Italic.ttf");
+}
+
+@font-face {
+  font-family: Cambay-Regular;
+  src: url("../fonts/fonts/Cambay/Cambay-Regular.ttf");
+}
+
+/* lacial Indifference */
+
+@font-face {
+  font-family: GlacialIndifference-Bold;
+  src: url("../fonts/fonts/glacial-indifference/GlacialIndifference-Bold.otf");
+}
+
+@font-face {
+  font-family: GlacialIndifference-Italic;
+  src: url("../fonts/fonts/glacial-indifference/GlacialIndifference-Italic.otf");
+}
+
+@font-face {
+  font-family: GlacialIndifference-Regular;
+  src: url("../fonts/fonts/glacial-indifference/GlacialIndifference-Regular.otf");
+}
+
+/* Muli */
+
+@font-face {
+  font-family: Muli-Bold;
+  src: url("../fonts/fonts/muli/Muli-Bold.ttf");
+}
+
+@font-face {
+  font-family: Muli-BoldItalic;
+  src: url("../fonts/fonts/muli/Muli-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Muli-ExtraLight;
+  src: url("../fonts/fonts/muli/Muli-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: Muli-ExtraLightItalic;
+  src: url("../fonts/fonts/muli/Muli-ExtraLightItalic.ttf");
+}
+
+@font-face {
+  font-family: Muli-Italic;
+  src: url("../fonts/fonts/muli/Muli-Italic.ttf");
+}
+
+@font-face {
+  font-family: Muli-Light;
+  src: url("../fonts/fonts/muli/Muli-Light.ttf");
+}
+
+@font-face {
+  font-family: Muli-LightItalic;
+  src: url("../fonts/fonts/muli/Muli-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: Muli-Regular;
+  src: url("../fonts/fonts/muli/Muli-Regular.ttf");
+}
+
+@font-face {
+  font-family: Muli-Semi-BoldItalic;
+  src: url("../fonts/fonts/muli/Muli-Semi-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Muli-SemiBold;
+  src: url("../fonts/fonts/muli/Muli-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Muli;
+  src: url("../fonts/fonts/muli/Muli.ttf");
+}
+
+/* Poppins */
+
+@font-face {
+  font-family: Poppins-Black;
+  src: url("../fonts/fonts/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: Poppins-BlackItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url("../fonts/fonts/Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: Poppins-BoldItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-ExtraBold;
+  src: url("../fonts/fonts/Poppins/Poppins-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: Poppins-ExtraBoldItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-ExtraLight;
+  src: url("../fonts/fonts/Poppins/Poppins-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: Poppins-ExtraLightItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-ExtraLightItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Italic;
+  src: url("../fonts/fonts/Poppins/Poppins-Italic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Light;
+  src: url("../fonts/fonts/Poppins/Poppins-Light.ttf");
+}
+
+@font-face {
+  font-family: Poppins-LightItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url("../fonts/fonts/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: Poppins-MediumItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Regular;
+  src: url("../fonts/fonts/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url("../fonts/fonts/Poppins/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Poppins-SemiBoldItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Thin;
+  src: url("../fonts/fonts/Poppins/Poppins-Thin.ttf");
+}
+
+@font-face {
+  font-family: Poppins-ThinItalic;
+  src: url("../fonts/fonts/Poppins/Poppins-ThinItalic.ttf");
+}

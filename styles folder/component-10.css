@@ -1,0 +1,124 @@
+.component-10 {
+  width: 100%;
+  height: auto;
+  padding-top: 138px;
+  padding-bottom: 136px;
+  margin-bottom: 2px;
+}
+
+.component-10-inner {
+  width: 63%;
+  margin: 0 auto;
+}
+
+.component-10-inner-p {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #ee3364;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.component-10-inner h1 {
+  font-family: "glacial indifference", sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  text-align: center;
+  color: #222222;
+  word-spacing: 3.3px;
+  margin-bottom: 49px;
+}
+
+.component-10-inner h1 > span {
+  display: inline-block;
+  width: 22px;
+}
+
+.services-package {
+  width: 100%;
+  height: 530px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.services-package div {
+  width: 362px;
+  height: 522px;
+  background-color: #ffffff;
+  border: 4px solid #eeeeee;
+}
+
+.services-package h4 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 67px;
+  margin-bottom: 15px;
+  letter-spacing: 1.1px;
+  color: #0b0b0b;
+}
+
+.services-package h4 + span {
+  display: block;
+  width: 65px;
+  margin: 0 auto;
+  letter-spacing: 0.3px;
+  margin-bottom: 10px;
+}
+
+.services-package h3 {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  color: #0b0b0b;
+  margin-bottom: 53px;
+}
+
+.services-package h3 span {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: #0b0b0b;
+  display: inline-block;
+  margin-left: 76px;
+}
+
+.services-package p {
+  font-family: "Cambay", sans-serif;
+  font-size: 16px;
+  color: #636363;
+  line-height: 30px;
+  text-align: center;
+  margin-bottom: 27px;
+}
+
+.component-10-inner-button {
+  width: 180px;
+  height: 59px;
+  background-color: #1e1e1e;
+  color: white;
+  font-family: "Muli", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  border: 1px solid #1e1e1e;
+  padding-bottom: 7px;
+  display: block;
+  margin: 0 auto;
+}
+
+.services-package div:hover {
+  background-color: #ee3364;
+  border: 4px solid #ee3364;
+  transform: translateY(-1.2rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.services-package div:hover .component-10-inner-button {
+  background-color: #ee3364;
+  border: 1px solid #ffffff;
+}
