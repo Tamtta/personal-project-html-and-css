@@ -23,6 +23,11 @@
 .component-7-inner .flex {
   justify-content: space-between;
   width: 310px;
+  padding-left: 10px;
+}
+
+.component-7-inner .flex:not(:last-child) {
+  margin-right: 80px;
 }
 
 .for-pseudo-before {
@@ -37,15 +42,18 @@
 }
 
 .component-7 h1 {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 57px;
   font-weight: 700;
   color: #ffffff;
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  /* line-height: 60px; */
 }
 
 .component-7 p {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Regular", sans-serif;
   font-size: 24px;
   color: #cfcfcf;
   display: inline-block;
@@ -53,5 +61,5 @@
 
 .component-7 span {
   display: inline-block;
-  width: 165px;
+  width: 170px;
 }

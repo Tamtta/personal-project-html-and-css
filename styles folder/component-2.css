@@ -12,16 +12,17 @@
 }
 
 .component-2 h1 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins-ExtraBold", sans-serif;
   font-size: 40px;
   font-weight: 800;
+  /* line-height: 55px; */
   color: white;
 }
 
 .component-2 a {
-  font-family: "Muli", sans-serif;
+  font-family: "Muli-Bold", sans-serif;
   font-size: 18px;
-  font-weight: 600;
+  /* font-weight: 500; */
   text-decoration: none;
   color: #ffffff;
   display: inline-block;

@@ -2,11 +2,85 @@
   width: 100%;
   height: auto;
   margin: 0 auto;
-  background-color: blue;
+  /* background-color: blue; */
 }
 
-.component-11 div {
+.component-11 div:not(.middle-rect) {
   width: 385px;
   height: 574px;
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
+}
+
+.color-1 {
+  background-color: #bbbbbb;
+}
+
+.color-1:hover {
+  transform: translateY(-1.2rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.color-2 {
+  background-color: #d0d0d0;
+}
+
+.color-2:hover {
+  transform: translateY(-1.2rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.middle-rect {
+  width: 355px;
+  height: 544px;
+  border: 15px solid #242424;
+  background-color: #ee3364;
+}
+
+.middle-rect:hover {
+  transform: translateY(-1.2rem);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.middle-rect h1 {
+  font-family: "GlacialIndifference-Bold", sans-serif;
+  font-size: 35px;
+  color: #ffffff;
+  font-weight: 900;
+  text-align: center;
+  margin: 268px auto 14px auto;
+  padding-left: 10px;
+}
+
+.middle-rect h3 {
+  font-family: "Muli-Regular", sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  margin: 0 auto 32px auto;
+  padding-left: 8.5px;
+  letter-spacing: 0.3px;
+}
+
+.fa-brands {
+  display: inline-block;
+  font-size: 27px;
+  text-align: center;
+}
+
+.fa-facebook {
+  color: #4267b2;
+  margin-right: 10px;
+}
+
+.fa-twitter {
+  color: #00acee;
+}
+
+.for-font-awesome {
+  display: block;
+  width: 70px;
+  margin: 0 auto;
 }

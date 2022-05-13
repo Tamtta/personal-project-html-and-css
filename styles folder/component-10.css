@@ -1,7 +1,7 @@
 .component-10 {
   width: 100%;
   height: auto;
-  padding-top: 138px;
+  padding-top: 140px;
   padding-bottom: 136px;
   margin-bottom: 2px;
 }
@@ -12,8 +12,8 @@
 }
 
 .component-10-inner-p {
-  font-family: "Glacial Indifference", sans-serif;
-  font-size: 15px;
+  font-family: "GlacialIndifference-Bold", sans-serif;
+  font-size: 13px;
   font-weight: 600;
   color: #ee3364;
   text-align: center;
@@ -21,12 +21,12 @@
 }
 
 .component-10-inner h1 {
-  font-family: "glacial indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 65px;
   font-weight: 600;
   text-align: center;
   color: #222222;
-  word-spacing: 3.3px;
+  word-spacing: -1px;
   margin-bottom: 49px;
 }
 
@@ -40,6 +40,8 @@
   height: 530px;
   display: flex;
   justify-content: space-around;
+  padding-top: 2px;
+  padding-left: 1px;
 }
 
 .services-package div {
@@ -50,13 +52,13 @@
 }
 
 .services-package h4 {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   text-align: center;
   margin-top: 67px;
   margin-bottom: 15px;
-  letter-spacing: 1.1px;
+  letter-spacing: 0.3px;
   color: #0b0b0b;
 }
 
@@ -64,12 +66,12 @@
   display: block;
   width: 65px;
   margin: 0 auto;
-  letter-spacing: 0.3px;
+  letter-spacing: -1px;
   margin-bottom: 10px;
 }
 
 .services-package h3 {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 80px;
   font-weight: 700;
   letter-spacing: 0.3px;
@@ -78,21 +80,44 @@
 }
 
 .services-package h3 span {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 40px;
   font-weight: 700;
   color: #0b0b0b;
   display: inline-block;
-  margin-left: 76px;
+  /* margin-left: 80px;
+  margin-right: 4px; */
+}
+
+.span-1 {
+  margin-left: 80px;
+  margin-right: 6px;
+}
+
+.span-2 {
+  margin-left: 85px;
+  margin-right: 7px;
+}
+
+.span-3 {
+  margin-left: 86px;
+  margin-right: 8px;
 }
 
 .services-package p {
-  font-family: "Cambay", sans-serif;
+  font-family: "Cambay-Regular", sans-serif;
   font-size: 16px;
   color: #636363;
   line-height: 30px;
   text-align: center;
-  margin-bottom: 27px;
+  margin-bottom: 26px;
+}
+
+.services-package p > span {
+  font-family: "Cambay-Regular", sans-serif;
+  font-size: 16px;
+  color: #8799a3;
+  font-weight: 800;
 }
 
 .component-10-inner-button {
@@ -119,6 +144,7 @@
 }
 
 .services-package div:hover .component-10-inner-button {
+  cursor: pointer;
   background-color: #ee3364;
   border: 1px solid #ffffff;
 }

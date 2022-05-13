@@ -21,7 +21,7 @@
   position: absolute;
   top: 48.5px;
   left: 77px;
-  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.4);
 }
 
 #div-for-elements {
@@ -30,15 +30,17 @@
 }
 
 #div-for-elements h1 {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 45px;
   font-weight: 600;
   color: #1c1c1c;
-  margin-bottom: 36px;
+  margin-bottom: 35px;
+  letter-spacing: -1px;
+  word-spacing: -1.5px;
 }
 
 #div-for-elements p {
-  font-family: "Muli", sans-serif;
+  font-family: "Muli-Regular", sans-serif;
   font-size: 16px;
   color: #8b8b8b;
   line-height: 24px;
@@ -47,12 +49,12 @@
 
 #div-for-elements li > img {
   display: inline-block;
-  margin-right: 18px;
+  margin-right: 16px;
 }
 
 #div-for-elements li {
   display: block;
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 17px;
   font-weight: 600;
   margin-bottom: 20px;
@@ -67,7 +69,7 @@
 }
 
 #div-for-elements li:last-child {
-  margin-bottom: 60px;
+  margin-bottom: 57px;
 }
 
 .component-8 button {
@@ -75,12 +77,13 @@
   height: 51px;
   background-color: #ee3364;
   color: white;
-  font-family: "Muli", sans-serif;
-  font-size: 12px;
+  font-family: "Muli-Bold", sans-serif;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1.2px;
   border: 1px solid #ee3364;
   padding-bottom: 7px;
+  letter-spacing: -1px;
 }
 
 .component-8 button:hover {

@@ -6,26 +6,27 @@
 }
 
 .component-3-container h1 {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 80px;
-  font-weight: 800;
+  /* font-weight: 800; */
   color: #ffffff;
-  letter-spacing: 1.7px;
-  word-spacing: 2px;
+  letter-spacing: 0.1px;
+  word-spacing: 0.89px;
   line-height: 86px;
-  width: 41.875rem;
+  width: 43rem;
   position: absolute;
   z-index: 1;
   padding-top: 150px;
 }
 
 .component-3-container p {
-  font-family: "Muli regular", sans-serif;
+  font-family: "Muli-Regular", sans-serif;
   font-size: 20px;
   width: 560px;
   font-weight: 100;
-  padding-top: 436px;
-  line-height: 27px;
+  padding-top: 434px;
+  padding-left: 2px;
+  line-height: 28px;
   color: #ffffff;
 }
 
@@ -40,12 +41,14 @@
   margin-top: 57px;
   background-color: #ee3364;
   color: white;
-  font-family: "Muli", sans-serif;
+  font-family: "Muli-Bold", sans-serif;
   font-size: 12px;
+  font-weight: 100;
+  /* padding-left: 4px; */
   text-transform: uppercase;
-  letter-spacing: 1.2px;
+  letter-spacing: 0.7px;
   border: 1px solid #ee3364;
-  padding-bottom: 9px;
+  padding-bottom: 12px;
 }
 
 .component-3-container button:hover {

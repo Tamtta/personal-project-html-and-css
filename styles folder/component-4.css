@@ -3,22 +3,25 @@
 }
 
 .component-4 h1 {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 2.5rem;
   font-weight: 700;
   width: 43.75rem;
-  height: 6.4375rem;
+  height: 6rem;
   text-align: center;
   margin: 0 auto;
-  letter-spacing: 0.8px;
-  line-height: 45px;
-  padding-left: 2.875rem;
+  letter-spacing: 0.1px;
+  word-spacing: 0.1px;
+  line-height: 44px;
+  padding-left: 2.2rem;
+  /* padding-top: 2px; */
 }
 
 .component-4 h1 > span {
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Regular", sans-serif;
   font-size: 2.5rem;
   font-weight: 400;
+  line-height: 44px;
 }
 
 .ads-container {
@@ -31,6 +34,7 @@
   height: 292px;
   background-color: #edf7ff;
   border: 1px solid #edf7ff;
+  /* padding-left: 2px; */
   margin-bottom: 40px;
 }
 
@@ -51,30 +55,34 @@
   align-items: center;
   margin-top: 43px;
   margin-left: 46px;
-  margin-bottom: 13px;
+  margin-bottom: 16px;
 }
 
 .ads-container h3 {
-  width: 260px;
+  width: 270px;
   height: 33px;
   margin-left: 47px;
-  font-family: "Glacial Indifference", sans-serif;
+  font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 25px;
   font-weight: 800;
   margin-bottom: 22px;
 }
 
 .ads-container p {
-  width: 300px;
-  margin-left: 47px;
-  line-height: 24px;
-  letter-spacing: 0.4px;
+  font-family: "Muli-Regular", sans-serif;
+  font-size: 15px;
+  width: 306px;
+  margin-left: 45px;
+  line-height: 25px;
+  letter-spacing: 0.3px;
+  word-spacing: 0.7px;
 }
 
 .ads-container div:not(.svg-bg):hover {
   border: 1px solid #ee3364;
   transform: translateY(-1.2rem);
   box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 }
 
 .ads-container div:not(.svg-bg):hover .svg-bg {
@@ -93,9 +101,10 @@
   color: white;
   border: 1px solid #ee3364;
   margin: 0 auto;
-  font-family: "Muli", sans-serif;
+  font-family: "Muli-Bold", sans-serif;
   font-size: 14px;
-  font-weight: bold;
+  font-weight: 100;
+  /* margin-left: 10px; */
 }
 
 .component-4-button:hover {
