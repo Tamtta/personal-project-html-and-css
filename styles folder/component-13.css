@@ -1,0 +1,69 @@
+.component-13 {
+  width: 100%;
+  height: 792px;
+  margin: 0 auto;
+  background-color: green;
+}
+
+.div-for-elipses {
+  width: 820px;
+  height: 340px;
+  /* margin: 135px auto 0 auto; */
+  margin: 0 auto;
+  background-color: blueviolet;
+  /* padding-left: 20px; */
+  padding-top: 115px;
+}
+
+.layer-up {
+  display: inline-block;
+  margin-left: 227px;
+  margin-right: 57px;
+  margin-bottom: 40px;
+}
+
+.ellipse-big {
+  padding-top: 25px;
+  margin-right: 65px;
+  margin-bottom: 15px;
+}
+
+.layer-down {
+  margin-bottom: 40px;
+}
+
+.div-for-elipses h4 {
+  font-family: GlacialIndifference-Bold, sans-serif;
+  font-size: 26px;
+  color: #303030;
+  text-align: center;
+  padding-left: 35px;
+  margin-bottom: 5px;
+}
+
+.div-for-elipses-p-1 {
+  font-family: Muli-Regular, sans-serif;
+  font-size: 14px;
+  color: #c4c4c4;
+  text-align: center;
+  padding-left: 38px;
+  letter-spacing: 0.1px;
+  word-spacing: 1.9px;
+  margin-bottom: 20px;
+}
+
+.div-for-elipses-p-2 {
+  font-family: Muli-BoldItalic, sans-serif;
+  font-size: 17px;
+  color: #8d8d8d;
+  /* text-align: center; */
+  padding-left: 41px;
+  letter-spacing: 0.11px;
+  word-spacing: -1.475px;
+  line-height: 27px;
+}
+
+.span-1 {
+  display: inline-block;
+  /* width: 1px; */
+}
