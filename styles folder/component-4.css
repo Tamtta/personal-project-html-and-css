@@ -89,6 +89,14 @@
   background-color: #ee3364;
 }
 
+.ads-container div:hover image {
+  filter: brightness(0) invert(1);
+}
+
+.ads-container div:hover #_021-diamond {
+  filter: brightness(0) invert(1);
+}
+
 #_021-diamond {
   filter: brightness(0);
 }
