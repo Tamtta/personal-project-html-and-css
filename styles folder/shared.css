@@ -30,3 +30,7 @@ footer {
   justify-content: space-between;
   align-items: baseline;
 }
+
+.span-for-dot {
+  color: #ee3364;
+}
