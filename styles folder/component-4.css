@@ -37,15 +37,16 @@
 }
 
 .svg-bg {
-  width: 81px;
-  height: 81px;
+  width: 66px;
+  height: 77px;
   background-color: white;
   border: 1px solid white;
   border-radius: 50%;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   margin: 43px 0 1rem 46px;
+  padding: 5px 0 0 15px;
 }
 
 .ads-container h3 {
