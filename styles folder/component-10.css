@@ -133,6 +133,15 @@
   cursor: pointer;
 }
 
+.services-package div:hover h3,
+.services-package div:hover h3 span,
+.services-package div:hover h4,
+.services-package div:hover h4 + span,
+.services-package div:hover p,
+.services-package div:hover p > span {
+  color: white;
+}
+
 .services-package div:hover .component-10-inner-button {
   cursor: pointer;
   background-color: #ee3364;
