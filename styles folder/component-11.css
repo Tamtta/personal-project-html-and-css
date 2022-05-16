@@ -2,13 +2,11 @@
   width: 100%;
   height: auto;
   margin: 0 auto;
-  /* background-color: blue; */
 }
 
 .component-11 div {
   width: 355px;
   height: 544px;
-  /* background-color: blueviolet; */
 }
 
 .color-1 {
@@ -29,7 +27,6 @@
 .color-1:hover,
 .color-2:hover,
 .middle-rect:hover {
-  transform: translateY(-1.2rem);
   box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
   cursor: pointer;
   background-color: #ee3364;

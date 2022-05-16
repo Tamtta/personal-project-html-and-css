@@ -80,9 +80,10 @@
 
 .ads-container div:not(.svg-bg):hover {
   border: 1px solid #ee3364;
-  transform: translateY(-1.2rem);
+  /* transform: translateY(-1.2rem); */
   box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
   cursor: pointer;
+  background-color: white;
 }
 
 .ads-container div:not(.svg-bg):hover .svg-bg {

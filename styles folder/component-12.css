@@ -3,43 +3,44 @@
   height: 708px;
   margin: 0 auto;
   background-color: #f2f2f2;
+  position: relative;
 }
 
 .stones-1 {
+  position: absolute;
   display: inline-block;
-  margin-left: 40px;
-  margin-bottom: 202px;
-  margin-right: 70px;
+  left: 40px;
+  bottom: 295px;
 }
 
 .stones-2 {
+  position: absolute;
   display: inline-block;
-  /* margin-top: 500px; */
+  right: 0;
+  bottom: 90px;
 }
 
 .am-cosm {
+  position: absolute;
   display: inline-block;
-  /* margin-left: 40px;*/
-  margin-top: 115px;
-  margin-right: 89px;
+  top: 115px;
+  left: 212px;
 }
 
 .div-for-forms {
+  position: absolute;
   display: inline-block;
   width: 725px;
   height: 350px;
-  /* background-color: blue; */
-  margin-right: 94px;
-  /* margin-bottom: 120px; */
+  right: 400px;
+  top: 195px;
 }
 
 .div-for-forms h1 {
   font-family: GlacialIndifference-Bold, sans-serif;
   font-size: 50px;
   color: #2b2b2b;
-  /* word-spacing: -20px; */
   letter-spacing: -3px;
-  /* padding-top: 150px; */
   margin-bottom: 20px;
 }
 
@@ -58,10 +59,6 @@
 
 form {
   display: inline-block;
-  /* width: 700px;
-  height: 132px; */
-  /* background-color: #ee3364; */
-  /* padding-bottom: 164px; */
   padding-left: 1px;
   margin-bottom: 52px;
 }
