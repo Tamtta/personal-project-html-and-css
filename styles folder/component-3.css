@@ -7,11 +7,11 @@
 
 .component-3-container h1 {
   font-family: "GlacialIndifference-Bold", sans-serif;
-  font-size: 80px;
+  font-size: 5rem;
   color: #ffffff;
   letter-spacing: 0.1px;
   word-spacing: 0.89px;
-  line-height: 86px;
+  line-height: 5.375rem;
   width: 43rem;
   position: absolute;
   z-index: 1;
@@ -20,8 +20,8 @@
 
 .component-3-container p {
   font-family: "Muli-Regular", sans-serif;
-  font-size: 20px;
-  width: 560px;
+  font-size: 1.25rem;
+  width: 35rem;
   font-weight: 100;
   padding-top: 434px;
   padding-left: 2px;
@@ -35,18 +35,18 @@
 }
 
 .component-3-container button {
-  width: 180px;
+  width: 11.25rem;
   height: 58px;
   margin-top: 57px;
   background-color: #ee3364;
   color: white;
   font-family: "Muli-Bold", sans-serif;
-  font-size: 12px;
+  font-size: 0.75rem;
   font-weight: 100;
   text-transform: uppercase;
   letter-spacing: 0.7px;
   border: 1px solid #ee3364;
-  padding-bottom: 12px;
+  padding-bottom: 0.75rem;
 }
 
 .component-3-container button:hover {

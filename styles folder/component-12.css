@@ -9,7 +9,7 @@
 .stones-1 {
   position: absolute;
   display: inline-block;
-  left: 40px;
+  left: 2.5rem;
   bottom: 295px;
 }
 
@@ -32,7 +32,7 @@
   display: inline-block;
   width: 725px;
   height: 350px;
-  right: 400px;
+  right: 25rem;
   top: 195px;
 }
 
@@ -78,13 +78,13 @@ form input {
 
 form select {
   display: block;
-  width: 352px;
+  width: 22rem;
   height: 54.44px;
   background-color: #cacaca;
   border: 2px solid #cacaca;
   margin-bottom: 20px;
   margin-right: 20px;
-  padding-left: 24px;
+  padding-left: 1.5rem;
   font-family: Muli-Regular, sans-serif;
   font-size: 13px;
   color: #222222;
@@ -92,7 +92,7 @@ form select {
 
 form button {
   display: block;
-  width: 352px;
+  width: 22rem;
   height: 54.44px;
   background-color: #ee3364;
   border: 2px solid #ee3364;

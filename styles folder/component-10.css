@@ -2,7 +2,7 @@
   width: 100%;
   height: auto;
   padding-top: 140px;
-  padding-bottom: 136px;
+  padding-bottom: 8.5rem;
   margin-bottom: 2px;
 }
 
@@ -72,7 +72,7 @@
 
 .services-package h3 {
   font-family: "GlacialIndifference-Bold", sans-serif;
-  font-size: 80px;
+  font-size: 5rem;
   font-weight: 700;
   letter-spacing: 0.3px;
   color: #0b0b0b;
@@ -81,14 +81,14 @@
 
 .services-package h3 span {
   font-family: "GlacialIndifference-Bold", sans-serif;
-  font-size: 40px;
+  font-size: 2.5rem;
   font-weight: 700;
   color: #0b0b0b;
   display: inline-block;
 }
 
 .span-1 {
-  margin-left: 80px;
+  margin-left: 5rem;
   margin-right: 6px;
 }
 
@@ -104,7 +104,7 @@
 
 .services-package p {
   font-family: "Cambay-Regular", sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #636363;
   line-height: 30px;
   text-align: center;
@@ -113,7 +113,7 @@
 
 .services-package p > span {
   font-family: "Cambay-Regular", sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #8799a3;
   font-weight: 800;
 }

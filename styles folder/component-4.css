@@ -34,14 +34,12 @@
   height: 292px;
   background-color: #edf7ff;
   border: 1px solid #edf7ff;
-  /* padding-left: 2px; */
-  margin-bottom: 40px;
+  margin-bottom: 2.5rem;
 }
 
 .ads-container img {
   height: 41px;
   width: 41px;
-  /* display: block; */
 }
 
 .svg-bg {
@@ -55,7 +53,7 @@
   align-items: center;
   margin-top: 43px;
   margin-left: 46px;
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
 }
 
 .ads-container h3 {
@@ -80,7 +78,6 @@
 
 .ads-container div:not(.svg-bg):hover {
   border: 1px solid #ee3364;
-  /* transform: translateY(-1.2rem); */
   box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.1);
   cursor: pointer;
   background-color: white;
@@ -113,7 +110,6 @@
   font-family: "Muli-Bold", sans-serif;
   font-size: 14px;
   font-weight: 100;
-  /* margin-left: 10px; */
 }
 
 .component-4-button:hover {

@@ -2,7 +2,7 @@
   width: 100%;
   height: auto;
   padding-top: 138px;
-  padding-bottom: 136px;
+  padding-bottom: 8.5rem;
   background-color: #f2f2f2;
 }
 
@@ -38,7 +38,7 @@
 .component-9-container-grid {
   margin-left: 10px;
   width: 1171px;
-  height: 2192px;
+  height: 137rem;
   gap: 1px;
   display: grid;
   grid-template: repeat(3, 730px) / repeat(2, 585px);
@@ -75,12 +75,12 @@
 
 .rect-hover {
   width: 292px;
-  height: 280px;
+  height: 17.5rem;
 }
 
 .rect-hover h3 {
   font-family: "GlacialIndifference-Bold", sans-serif;
-  font-size: 48px;
+  font-size: 3rem;
   font-weight: 600;
   text-align: center;
   color: #bababa00;
