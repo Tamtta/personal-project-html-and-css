@@ -14,8 +14,7 @@
   font-family: "Poppins-ExtraBold", sans-serif;
   font-size: 55.42px;
   color: white;
-  padding-top: 120px;
-  padding-left: 850px;
+  padding: 121px 0 0 850px;
   margin-bottom: 31px;
 }
 
@@ -54,7 +53,6 @@
   line-height: 1.5rem;
   letter-spacing: 0.3px;
   word-spacing: -1px;
-  padding-left: 2px;
 }
 
 .component-14-inner-2 .component-14-inner-2-span {

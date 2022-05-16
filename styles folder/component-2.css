@@ -1,7 +1,6 @@
 .component-2 {
   width: 100%;
-  padding-top: 1.75rem;
-  padding-bottom: 27px;
+  padding: 1.75rem 0 27px 0;
   background-color: rgba(0, 0, 0, 0.4);
   margin-bottom: 85px;
 }
@@ -33,9 +32,8 @@
 
 .a-container {
   width: 35.455rem;
-  margin-right: 8.4rem;
+  margin: 0 8.4rem 2px 0;
   line-height: 1.3px;
-  margin-bottom: 2px;
 }
 
 .svg-container svg {

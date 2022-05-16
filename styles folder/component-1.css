@@ -1,7 +1,6 @@
 .component-1 {
   width: 100%;
-  padding-top: 1rem;
-  padding-bottom: 0.875rem;
+  padding: 1rem 0 0.875rem 0;
   background-color: rgba(0, 0, 0, 0.57);
 }
 

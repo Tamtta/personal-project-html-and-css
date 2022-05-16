@@ -12,9 +12,8 @@
   margin: 0 auto;
   letter-spacing: 0.1px;
   word-spacing: 0.1px;
-  line-height: 44px;
+  line-height: 46px;
   padding-left: 2.2rem;
-  /* padding-top: 2px; */
 }
 
 .component-4 h1 > span {
@@ -25,7 +24,7 @@
 }
 
 .ads-container {
-  margin: 44px auto;
+  margin: 44px auto 48px auto;
   width: 73.125rem;
 }
 
@@ -37,11 +36,6 @@
   margin-bottom: 2.5rem;
 }
 
-.ads-container img {
-  height: 41px;
-  width: 41px;
-}
-
 .svg-bg {
   width: 81px;
   height: 81px;
@@ -51,9 +45,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 43px;
-  margin-left: 46px;
-  margin-bottom: 1rem;
+  margin: 43px 0 1rem 46px;
 }
 
 .ads-container h3 {
@@ -63,6 +55,9 @@
   font-family: "GlacialIndifference-Bold", sans-serif;
   font-size: 25px;
   font-weight: 800;
+}
+
+.ads-container h3:not(.component-4-h3) {
   margin-bottom: 22px;
 }
 
@@ -116,4 +111,8 @@
   cursor: pointer;
   background-color: white;
   color: #ee3364;
+}
+
+.component-4-h3 {
+  margin-bottom: 15px;
 }

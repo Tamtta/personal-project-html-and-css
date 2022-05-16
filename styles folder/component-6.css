@@ -3,7 +3,6 @@
   height: 492px;
   margin: 0 auto;
   background-color: #ff434b;
-  margin-top: 5px;
   padding-top: 150px;
 }
 
@@ -33,6 +32,11 @@
 
 .component-6-h1-1 {
   padding-left: 10px;
+}
+
+.component-6-h1-2 {
+  word-spacing: 0.2px;
+  letter-spacing: 0.2px;
 }
 
 .fake-video {

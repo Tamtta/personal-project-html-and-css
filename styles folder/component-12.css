@@ -33,7 +33,7 @@
   width: 725px;
   height: 350px;
   right: 25rem;
-  top: 195px;
+  top: 197px;
 }
 
 .div-for-forms h1 {
@@ -82,8 +82,7 @@ form select {
   height: 54.44px;
   background-color: #cacaca;
   border: 2px solid #cacaca;
-  margin-bottom: 20px;
-  margin-right: 20px;
+  margin: 0 20px 20px 0;
   padding-left: 1.5rem;
   font-family: Muli-Regular, sans-serif;
   font-size: 13px;

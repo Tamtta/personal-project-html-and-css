@@ -1,8 +1,7 @@
 .component-10 {
   width: 100%;
   height: auto;
-  padding-top: 140px;
-  padding-bottom: 8.5rem;
+  padding: 140px 0 8.5rem 0;
   margin-bottom: 2px;
 }
 
@@ -40,8 +39,7 @@
   height: 530px;
   display: flex;
   justify-content: space-around;
-  padding-top: 2px;
-  padding-left: 1px;
+  padding: 2px 0 0 1px;
 }
 
 .services-package div {
@@ -56,8 +54,7 @@
   font-size: 30px;
   font-weight: 700;
   text-align: center;
-  margin-top: 67px;
-  margin-bottom: 15px;
+  margin: 67px 0 15px 0;
   letter-spacing: 0.3px;
   color: #0b0b0b;
 }
@@ -65,9 +62,8 @@
 .services-package h4 + span {
   display: block;
   width: 65px;
-  margin: 0 auto;
+  margin: 0 auto 10px auto;
   letter-spacing: -1px;
-  margin-bottom: 10px;
 }
 
 .services-package h3 {
@@ -88,18 +84,15 @@
 }
 
 .span-1 {
-  margin-left: 5rem;
-  margin-right: 6px;
+  margin: 0 6px 0 5rem;
 }
 
 .span-2 {
-  margin-left: 85px;
-  margin-right: 7px;
+  margin: 0 7px 0 85px;
 }
 
 .span-3 {
-  margin-left: 86px;
-  margin-right: 8px;
+  margin: 0 8px 0 86px;
 }
 
 .services-package p {
